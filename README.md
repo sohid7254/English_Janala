@@ -2,13 +2,13 @@
 
 **English Janala** is a modern learning platform focused on improving English skills through interactive lessons, vocabulary practice, and grammar guidance. Built with ReactJS, TailwindCSS, and Firebase, it offers a clean UI and smooth user experience for learners of all levels.
 
-![Screenshot](./assets/english-janala-screenshot.png)
+![Screenshot](https://github.com/sohid7254/English_Janala/blob/main/assets/englishjanala.png)
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 [Live Site](https://english-janala.vercel.app)
+🔗 [Live Site]([https://english-janala.vercel.app](https://english-janala-sohid.netlify.app/))
 
 ---
 
