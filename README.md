@@ -39,13 +39,5 @@
 
 ```bash
 "@tailwindcss/vite": "^4.1.14"
-"react": "^19.1.1"
-"react-dom": "^19.1.1"
-"react-icons": "^5.5.0"
-"react-router": "^7.9.3"
-"react-tabs": "^6.1.0"
-"react-toastify": "^11.0.5"
-"sweetalert2": "^11.23.0"
-"sweetalert2-react-content": "^5.1.0"
-"tailwindcss": "^4.1.14"
+"html-5"
 ```
